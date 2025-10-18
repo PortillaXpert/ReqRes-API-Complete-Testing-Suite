@@ -19,6 +19,13 @@
   Designed as a portfolio-ready testing suite, it reflects best practices in automated API testing and reporting using <strong>Postman</strong> and <strong>Newman</strong>.
 </p>
 
+<p align="center">
+  🔗 <strong>Explore the live collection on Postman:</strong><br/>
+  <a href="https://personal-qa-workspace.postman.co/workspace/QA-Portfolio~803d67d6-a5a5-400a-91af-102152a9609d/collection/33194388-9dffd599-c2ae-4248-b036-2793bd8f3fab?action=share&creator=33194388&active-environment=33194388-4ed2802f-2bfc-44ea-91c2-d3332728f624" target="_blank">
+    🌐 View Collection – ReqRes API Testing Suite
+  </a>
+</p>
+
 <div class="badge-container">
   <h3>Built With</h3>
   <a class="badge" href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
