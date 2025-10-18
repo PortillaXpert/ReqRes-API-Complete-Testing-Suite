@@ -2,7 +2,7 @@
 
 <h1 align="center">ReqRes API – Complete Testing Suite</h1>
 <p align="center">
-  <img src="images/postman.png" alt="Collection Banner" width="200" />
+  <img src="images/postman.png" alt="Collection Banner" width="100%" />
 </p>
 <p class="lead" align="center">
   A complete automated test suite for the public ReqRes API, designed to validate CRUD operations, response integrity, and system resilience.
